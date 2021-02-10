@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi there 👋, I am Gaein nidb, a Chinese undergraduate student, studying in North University of China now.
+
+My favourite Programing Language is CSharp.I am currently learning Python also.
+
+There are no language I am really good at, so I need study for a while.
+
+Welcome to my website: [Gaein nidb's blog](https://blog.gaein.cn)
+
 
 <!--
 **nidbCN/nidbCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
