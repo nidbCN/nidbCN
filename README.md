@@ -5,8 +5,8 @@ Gaein nidb，中北大学在校本科生
 
 ### Language
 
-[![](https://img.shields.io/badge/.Net-%23512bd4.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
-![](https://img.shields.io/badge/MINGW-%23239120.svg?&style=flat-square&logo=c&logoColor=white)
+[![](https://img.shields.io/badge/.NET-%23512bd4.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
+![](https://img.shields.io/badge/MinGW-%23239120.svg?&style=flat-square&logo=c&logoColor=white)
 
 My favorite Programing Language is CSharp.Can only write "HelloWorld" in C++/Java/Kotlin/Python.  
 最喜欢使用C#，~~貌似也就C#还凑合能写~~。  
