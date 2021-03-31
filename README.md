@@ -20,11 +20,12 @@ There are no language I am really good at, so I need study for a while.
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
 [![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) 
 [![](https://img.shields.io/badge/Tool-ReSharper-%%23BD3777?style=flat-square&logo=jetbrains)](https://www.jetbrains.com/resharper/) 
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  
-![](https://img.shields.io/badge/IDE-JetBrains%20CLion-%2322D890?style=flat-square&logo=jetbrains)
-![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-%23BD3777?style=flat-square&logo=Pycharm)
-Use Microsoft Visual Studio with JetBrains R# to code CSharp.Use Visual Studio Code to code C Language and Python.  
-用带ReSharper的Microsoft Visual Studio写CSharp（陆地最强IDE），VSCode写C和Python。
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/IDE-JetBrains%20CLion-%2322D890?style=flat-square&logo=jetbrains)](https://www.jetbrains.com/clion/)
+[![](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-%23FCF84A?style=flat-square&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
+
+Use Microsoft Visual Studio with JetBrains R# to code CSharp.Use Visual Studio Code to code C Language and Python.Code C/C++ and Python projects with JetBrains CLion and PyCharm Pro.  
+用带ReSharper的Microsoft Visual Studio写CSharp（陆地最强IDE），VSCode写C和Python。C/C++和Python的项目使用JetBrains的CLion和PyCharm专业版。
 
 ### Links
 
