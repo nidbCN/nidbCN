@@ -1,3 +1,7 @@
+![ATRI](https://img.cdn.gaein.cn/ATRI/ev007b.png)
+
+> “时间流逝吧，你是多么的残酷——”
+
 ### Introduction
 
 Hi there 👋, I am Gaein nidb, a Chinese undergraduate student, study computer in North University of China.
