@@ -1,6 +1,6 @@
 ![ATRI](https://img.cdn.gaein.cn/ATRI/ev007b.png)
 
-> “时间流逝吧，你是多么的残酷——”
+> 時よ止まれ、おまえは美しい――。
 
 ### Introduction
 
