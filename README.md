@@ -34,7 +34,7 @@ There are no language I am really good at, so I need study for a while.
 
 [![VS](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/zh-hans/)
 [![VSC](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![CLion](https://img.shields.io/badge/IDE-JetBrains%20CLion-22D890?style=flat-square&logo=jetbrains)](https://www.jetbrains.com/clion/)
+[![CLion](https://img.shields.io/badge/IDE-JetBrains%20CLion-22D890?style=flat-square&logo=clion)](https://www.jetbrains.com/clion/)
 [![Pyc](https://img.shields.io/badge/IDE-JetBrains%20Pycharm-FCF84A?style=flat-square&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
 [![ReSharper](https://img.shields.io/badge/Tool-ReSharper-BD3777?style=flat-square&logo=jetbrains)](https://www.jetbrains.com/resharper/) 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
