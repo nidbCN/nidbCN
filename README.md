@@ -39,7 +39,7 @@ There are no language I am really good at, so I need study for a while.
 [![ReSharper](https://img.shields.io/badge/Tool-ReSharper-BD3777?style=flat-square&logo=jetbrains)](https://www.jetbrains.com/resharper/) 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-[![win11](https://img.shields.io/badge/microsoft-0067B8?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![win11](https://img.shields.io/badge/Windows%2011-0067B8?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![ubuntu](https://img.shields.io/badge/Ubuntu%20Server-0D7F1E?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 Use Visual Studio with JetBrains ReSharper to code CSharp(The best IDE in the world). Use Visual Studio Code to code single file C Language and Python. Code C/C++ and Python projects with JetBrains CLion and PyCharm Pro.
