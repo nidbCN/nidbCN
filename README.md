@@ -1,4 +1,4 @@
-![ATRI](https://raw.githubusercontent.com/nidbCN/nidbCN/master/images/background_small.jpg)
+![ATRI](https://img.cdn.gaein.cn/ATRI/ev007b.png)
 
 > 時よ止まれ、おまえは美しい――。
 
