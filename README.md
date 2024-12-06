@@ -1,4 +1,4 @@
-![banner](https://img.cdn.gaein.cn/ATRI_images/5542AAEE6C99DA2492612AA9F1E429CF.webp)
+![image](https://github.com/user-attachments/assets/78a0d851-12cc-4899-bffd-8d7aa18859e7)
 
 > 時よ止まれ、おまえは美しい――。
 
